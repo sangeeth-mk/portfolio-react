@@ -27,7 +27,7 @@ export const projectsData = [
         image: Netflix,
         title: "Netflix Clone",
         category: "design",
-        url:"",
+        url:"#",
         githuburl:"https://github.com/sangeeth-mk/netflix-react",
     },
     {
@@ -35,8 +35,8 @@ export const projectsData = [
         image: Watch,
         title: "Watch Landing Page",
         category: "app",
-        url:"",
-        githuburl:""
+        url:"#",
+        githuburl:"#"
     },
 ];
 
